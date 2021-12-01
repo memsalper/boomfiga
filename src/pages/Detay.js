@@ -278,7 +278,6 @@ function OpenBook({bookTitle, bookPoster, bookAuthors, bookLanguage, bookRelease
                 </Block>
                {/* <ScrollView style={{width: '100%', paddingBottom: HeaderHeight * 1.2}}><Block style={{flexWrap: 'wrap', flex: 1}}>
 
-
                         {
                             response.CommentList.map((user, key) => (
                         <Block style={{flexDirection: 'row', marginTop: 5}} key={key} >
